@@ -10,7 +10,7 @@ async function listContacts() {
   const data = await fs.readFile(contactsPath);
   return JSON.parse(data);
 }
-listContacts();
+// listContacts();
 
 async function getContactById(contactId) {
   const contacts = await listContacts();
