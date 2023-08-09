@@ -1,4 +1,5 @@
-# nodejs-hw-01
+# goit-nodejs-hw
+
 https://ibb.co/nwSCTDt //list
 
 https://ibb.co/H2x2J4j //get
